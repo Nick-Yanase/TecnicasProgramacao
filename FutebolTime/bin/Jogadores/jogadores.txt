@@ -1,0 +1,421 @@
+Corinthians
+COR
+Bando_de_loco
+1
+João Silva
+Joãozinho
+1995-03-10
+10
+Atacante
+80
+2
+false
+2
+Pedro Santos
+Pedrinho
+1990-07-15
+7
+Meio-campo
+85
+1
+true
+3
+Lucas Oliveira
+Luquinhas
+1992-11-20
+5
+Defensor
+75
+3
+false
+4
+Maria Costa
+Mariinha
+1998-02-28
+22
+Goleiro
+90
+0
+false
+5
+Ana Pereira
+Aninha
+1996-09-05
+3
+Meio-campo
+82
+2
+true
+Palmeiras
+PAL
+Porco
+6
+Felipe Santos
+Felipinho
+1994-04-12
+9
+Atacante
+79
+1
+false
+7
+Carla Oliveira
+Carlinha
+1993-06-25
+16
+Defensor
+77
+4
+true
+8
+Paulo Souza
+Paulinho
+1991-12-15
+14
+Meio-campo
+83
+2
+false
+9
+Laura Lima
+Laurinha
+1997-08-18
+8
+Atacante
+78
+3
+true
+10
+Mariana Alves
+Marizinha
+1999-01-30
+20
+Goleiro
+88
+1
+false
+11
+Gabriel Pereira
+Gabrielzinho
+1993-10-07
+11
+Meio-campo
+86
+2
+true
+12
+Rafaela Silva
+Rafinha
+1996-05-22
+4
+Defensor
+76
+0
+false
+13
+Luiz Santos
+Luizinho
+1990-03-17
+19
+Atacante
+81
+1
+true
+14
+Juliana Costa
+Julinha
+1994-11-12
+18
+Meio-campo
+84
+3
+false
+15
+Fernanda Oliveira
+Fernandinha
+1998-07-05
+6
+Defensor
+74
+2
+true
+16
+André Souza
+Andrezinho
+1992-02-20
+17
+Goleiro
+87
+1
+false
+17
+Camila Lima
+Camilinha
+1991-09-10
+2
+Meio-campo
+79
+0
+true
+18
+Roberto Pereira
+Bertinho
+1997-06-28
+15
+Atacante
+80
+2
+false
+19
+Beatriz Alves
+Bia
+1995-04-25
+12
+Defensor
+75
+1
+true
+20
+Ricardo Costa
+Ricardinho
+1993-08-30
+21
+Goleiro
+89
+3
+false
+21
+Cristina Silva
+Cristinha
+1990-12-03
+13
+Meio-campo
+82
+2
+true
+22
+Eduardo Oliveira
+Edu
+1994-10-15
+23
+Atacante
+77
+1
+false
+23
+Carolina Santos
+Carol
+1996-01-08
+1
+Defensor
+73
+2
+true
+Time02
+24
+Antonio Rodrigues
+Toninho
+1997-04-10
+9
+Atacante
+78
+3
+false
+25
+Fernanda Silva
+Fer
+1993-03-22
+5
+Meio-campo
+81
+1
+true
+26
+Ricardo Mendes
+Ricardão
+1995-08-15
+11
+Defensor
+76
+2
+false
+27
+Patrícia Lima
+Pat
+1996-12-10
+10
+Goleiro
+88
+0
+true
+28
+Thiago Costa
+Thiaguinho
+1994-07-05
+7
+Atacante
+79
+1
+false
+29
+Mariana Souza
+Mari
+1992-05-18
+8
+Meio-campo
+82
+2
+true
+30
+Felipe Fernandes
+Felipe
+1991-06-30
+6
+Defensor
+74
+3
+false
+31
+Juliana Nunes
+Juju
+1998-09-12
+4
+Goleiro
+90
+0
+true
+32
+Gustavo Alves
+Guga
+1990-10-20
+13
+Atacante
+80
+2
+false
+33
+Beatriz Santos
+Biazinha
+1997-11-25
+15
+Meio-campo
+85
+1
+true
+34
+Henrique Silva
+Henrique
+1995-01-30
+18
+Defensor
+77
+4
+false
+35
+Camila Fernandes
+Cami
+1993-12-15
+12
+Goleiro
+89
+0
+true
+36
+Eduardo Oliveira
+Dudu
+1992-04-05
+2
+Atacante
+83
+1
+false
+37
+Rafaela Costa
+Rafa
+1996-11-11
+14
+Meio-campo
+80
+2
+true
+38
+André Gomes
+André
+1990-07-23
+20
+Defensor
+75
+3
+false
+39
+Bianca Lima
+Bibi
+1991-09-17
+3
+Goleiro
+87
+0
+true
+40
+Daniel Pereira
+Dani
+1997-02-28
+19
+Atacante
+78
+2
+false
+41
+Larissa Nunes
+Lari
+1993-06-19
+22
+Meio-campo
+84
+1
+true
+42
+Roberto Silva
+Betão
+1992-01-25
+16
+Defensor
+76
+3
+false
+43
+Gabriela Alves
+Gabi
+1998-08-08
+17
+Goleiro
+91
+0
+true
+44
+Lucas Mendes
+Luquinha
+1994-03-14
+21
+Atacante
+79
+1
+false
+45
+Sofia Costa
+Sofi
+1990-05-07
+23
+Meio-campo
+82
+2
+true
+46
+Rodrigo Fernandes
+Rodrigão
+1996-02-22
+24
+Defensor
+77
+3
+false
